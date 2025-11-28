@@ -5,3 +5,8 @@
 顧問費 300 n
 講座 300 n
 課程 300 n
+streamlit
+scikit-learn
+jieba
+pandas
+openpyxl
